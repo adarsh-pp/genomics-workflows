@@ -13,7 +13,7 @@ This repository contains practical command-line workflows for processing and ana
 - 🧬 Variant calling & annotation  
 - 🧬 Genome assembly (de novo & hybrid)  
 - 📊 Quality control & coverage analysis  
-- 🧰 Utility tools for FASTQ, BAM, and VCF handling  
+- 🧰 Utility tools for FASTQ, FASTA, BAM, and VCF handling  
 
 ---
 
