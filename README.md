@@ -19,16 +19,17 @@ This repository contains practical command-line workflows for processing and ana
 
 ## 📂 Repository Structure
 
-
-bioinformatics-toolkit/
+```text
+genomics-workflows/
 │
-├── environment/ # Conda setup & environment handling
-├── nanopore/ # Long-read workflows
-├── illumina/ # Short-read workflows
-├── variant-analysis/ # Variant calling & annotation
-├── assembly/ # Genome assembly pipelines
-├── qc/ # Quality control & coverage
-├── utilities/ # General-purpose tools
+├── environment/        # Conda setup & environment handling
+├── nanopore/          # Long-read workflows
+├── illumina/          # Short-read workflows
+├── variant-analysis/  # Variant calling & annotation
+├── assembly/          # Genome assembly pipelines
+├── qc/                # Quality control & coverage
+├── utilities/         # General-purpose tools
+```
 
 ---
 
