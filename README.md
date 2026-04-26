@@ -1,6 +1,3 @@
-# genomics-workflows
-Practical genomics workflows for genomic data analysis, variant calling, and genome assembly
-
 # 🧬 Bioinformatics Command Toolkit
 
 A curated collection of bioinformatics commands and workflows used in real-world genomic data analysis.
