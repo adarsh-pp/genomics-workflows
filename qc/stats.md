@@ -4,7 +4,7 @@ Summary statistics for aligned sequencing data.
 
 ---
 
-## 🧪 Tool: [Samtool](https://www.htslib.org/)
+## 🧪 Tool: [Samtools](https://www.htslib.org/)
 Used to assess alignment quality and read statistics from BAM files.
 
 ---
