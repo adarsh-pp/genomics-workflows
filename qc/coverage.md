@@ -5,7 +5,7 @@ Assessment of sequencing depth and coverage across the genome.
 ---
 
 ## 🧪 Tools
-- [Samtool](https://www.htslib.org/)
+- [Samtools](https://www.htslib.org/)
 - [Mosdepth](https://github.com/brentp/mosdepth)
 
 Used to evaluate alignment coverage and sequencing depth.
